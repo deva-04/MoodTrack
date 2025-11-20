@@ -1,0 +1,5 @@
+echo out/ > .gitignore
+echo *.class >> .gitignore
+echo *.log >> .gitignore
+echo .DS_Store >> .gitignore
+echo *.zip >> .gitignore
